@@ -1,4 +1,7 @@
-package com.gildedtros;
+package gildedtros;
+
+import com.gildedtros.GildedTros;
+import com.gildedtros.Item;
 
 public class TexttestFixture {
     public static void main(String[] args) {
